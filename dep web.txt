@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>STC COLLEGE</title>
+</head>
+
+<body>
+
+<header>
+<center>
+<h1>STC COLLEGE</h1>
+<h2>Welcome to STC College</h2>
+</center>
+</header>
+
+<nav>
+<a href="">Student Details</a>
+<a href="">Faculty</a>
+<a href="">Courses</a>
+</nav>
+
+<main>
+
+<section>
+<figure>
+<img src="https://share.google/ujyr4i443WmygQeIo" width="300">
+<figcaption>STC COLLEGE</figcaption>
+</figure>
+</section>
+
+<section>
+<h2>About</h2>
+<p>Welcome to STC College. We focus on quality education and placement.</p>
+</section>
+
+<section>
+<h3>Student Details</h3>
+
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Class</th>
+<th>Percentage</th>
+</tr>
+
+<tr>
+<td>Arun</td>
+<td>I MCA</td>
+<td>85%</td>
+</tr>
+
+<tr>
+<td>Priya</td>
+<td>I MCA</td>
+<td>91%</td>
+</tr>
+
+<tr>
+<td>Karthik</td>
+<td>II MCA</td>
+<td>88%</td>
+</tr>
+
+<tr>
+<td>Divya</td>
+<td>II MCA</td>
+<td>94%</td>
+</tr>
+</table>
+</section>
+
+<section>
+<h3>FACULTY</h3>
+
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Subject</th>
+</tr>
+
+<tr>
+<td>Raj</td>
+<td>Java</td>
+</tr>
+
+<tr>
+<td>Anitha</td>
+<td>Python</td>
+</tr>
+</table>
+</section>
+
+<section>
+<h2>COURSES</h2>
+
+<h3>TECHNICAL</h3>
+
+<ol>
+<li>MCA</li>
+<li>Computer Science</li>
+<li>Information Technology</li>
+</ol>
+
+<h3>SKILLS</h3>
+
+<ul>
+<li>Communication Skills</li>
+<li>Programming Skills</li>
+</ul>
+
+</section>
+
+</main>
+
+</body>
+</html>
+```
